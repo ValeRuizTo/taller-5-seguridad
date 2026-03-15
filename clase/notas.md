@@ -54,7 +54,7 @@ Para cada amenaza se definieron elementos clave del análisis como descripción 
 Como resultado de la sesión, se obtuvo una tabla estructurada de análisis STRIDE, que servirá como base para continuar evaluando la seguridad del sistema y proponer mejoras en los mecanismos de protección de la información dentro de la plataforma EdukIT.
 
 ## 🧩 Boceto inicial del modelo
-
+![.](STRIDE.png)
 
 ## 🔁 Tareas definidas para complementar el taller
 
