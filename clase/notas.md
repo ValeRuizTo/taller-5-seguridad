@@ -55,7 +55,6 @@ Como resultado de la sesión, se obtuvo una tabla estructurada de análisis STRI
 
 ## 🧩 Boceto inicial del modelo
 
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
 
 ## 🔁 Tareas definidas para complementar el taller
 
